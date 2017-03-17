@@ -1,4 +1,3 @@
-import * as models from './models';
-import routes from './routes';
+import router from './router';
 
-export { models, routes };
+export { router };

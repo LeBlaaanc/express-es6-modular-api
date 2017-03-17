@@ -1,4 +1,4 @@
 import models from './models';
-import routes from './routes';
+import routers from './routers';
 
-export { models, routes };
+export { models, routers };
